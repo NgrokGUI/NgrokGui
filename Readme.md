@@ -31,5 +31,5 @@ Ngrok gui is a gui panel for the command line process which for some users is ha
 #### Mac: _"Available!"_
 #### Contact me?
     Discord : Sharuu#2404
-    Mail : sharifjameel20@gmail.com
+    Mail : sharifjameel37@gmail.com
     Website : https://sharifjameel90.github.io
